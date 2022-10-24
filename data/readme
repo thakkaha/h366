@@ -1,5 +1,6 @@
 - downloaded XLSX from https://www.nasa.gov/sites/default/files/atoms/files/hubble-birthdays-full-year.xlsx
 (what did Hubble see on your b-day - https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday)
 - extracted image src from individual pages using curl (& hxselect of html utils) in a loop on bash
-- cleaned csv
+- cleaned csv (replaced blanks/404 with 2011	Andromeda Galaxy	Over 100 million stars are on display in this portion of the Andromeda galaxy, located over 2 million light-years away. This portrait of our galactic neighbor is the largest image yet assembled by Hubble.	https://hubblesite.org/contents/news-releases/2015/news-2015-02.html
+ - ie from 12-Jan)
 - converted to json online

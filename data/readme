@@ -1,0 +1,5 @@
+- downloaded XLSX from https://www.nasa.gov/sites/default/files/atoms/files/hubble-birthdays-full-year.xlsx
+(what did Hubble see on your b-day - https://www.nasa.gov/content/goddard/what-did-hubble-see-on-your-birthday)
+- extracted image src from individual pages using curl (& hxselect of html utils) in a loop on bash
+- cleaned csv
+- converted to json online
